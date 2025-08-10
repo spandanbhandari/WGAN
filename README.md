@@ -1,0 +1,2 @@
+# WGAN
+Basic WGAN implementation
